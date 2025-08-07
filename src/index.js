@@ -21,8 +21,3 @@ if(xp <= 1000){
 }
 
 console.log("O Herói de nome " + nome + " está no nível " + nivel);
-/*
-
-Ao final deve se exibir uma mensagem:
-"O Herói de nome ${nome} está no nível de **{nivel}**"
- */
