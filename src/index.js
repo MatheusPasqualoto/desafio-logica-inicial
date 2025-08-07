@@ -1,5 +1,5 @@
-let nome = "heroi";
-let xp = 3227;
+let nome = "Batman";
+let xp = 150000;
 let nivel;
 
 if(xp <= 1000){
@@ -20,7 +20,7 @@ if(xp <= 1000){
     nivel = "Radiante";
 }
 
-console.log("O Herói de nome ${nome} está no nível de ${nivel}");
+console.log("O Herói de nome " + nome + " está no nível " + nivel);
 /*
 
 Ao final deve se exibir uma mensagem:
